@@ -1,3 +1,5 @@
+# MyBB_Theme_SanFelix
+
 SanFelix v1.1
 » About:
 
@@ -30,5 +32,5 @@ History:
 
 To Do:
 * fix any minor styling issues
-* complete postbit icon sections of thread status that I haven't fully completed yet# MyBB_Theme_SanFelix
+* complete postbit icon sections of thread status that I haven't fully completed yet
 
